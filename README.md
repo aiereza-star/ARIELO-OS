@@ -7,7 +7,7 @@
 
 ## 📋 Descripción
 
-**Arielo OS** es un sistema operativo eficiente y funcional diseñado para convertir hardware modesto en un mini-PC completo. Nuestro objetivo es demostrar que con una arquitectura modular y un diseño responsable con los recursos, cualquier dispositivo puede ofrecer una experiencia de usuario completa y práctica.
+**Arielo OS** es un sistema operativo eficiente y funcional diseñado para convertir hardware modesto en un PC completo. Nuestro objetivo es demostrar que con una arquitectura modular y un diseño responsable con los recursos, cualquier dispositivo puede ofrecer una experiencia de usuario completa y práctica.
 
 A diferencia de otros proyectos similares, Arielo OS no es solo una demostración gráfica: es un sistema operativo totalmente funcional con aplicaciones propias y utilidades reales.
 
